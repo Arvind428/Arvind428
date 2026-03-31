@@ -33,6 +33,6 @@
 
 <div align="center">
   <br/>
-  <img src="https://streak-stats.demolab.com?user=tarun-gk&theme=dark&hide_border=true" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=Arvind428&theme=dark&hide_border=true" alt="Streak" />
 </div>
 >
