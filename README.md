@@ -44,3 +44,10 @@
     src="https://raw.githubusercontent.com/Arvind428/Arvind428/output/github-contribution-grid-snake.svg"
     alt="Contribution Snake Animation">
 </picture>
+<h2 align="center">Contribution Activity</h2>
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arvind428&theme=tokyo-night&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+</p>
