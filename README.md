@@ -1,100 +1,34 @@
+<h1 align="center">Hi 👋, I'm DUBBAKULA ARVIND GOUD</h1>
+<h3 align="center">A passionate software developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arvind428&label=Profile%20views&color=0e75b6&style=flat" alt="arvind428" /> </p>
 
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arvind428" alt="arvind428" /></a> </p>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Tarun GK</strong>
-</h1>
+- 🔭 I’m currently working on **Python Fundamentals and DSA**
 
-<h3>BackEnd Developer | Springboot • Java • SQL</h3>
+- 👯 I’m looking to collaborate on **Beginner-friendly Python & AI projects**
 
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
+- 🤝 I’m looking for help with **artificial intelligence and machine learning road map**
 
-  <p>
-   I am a Java Backend Developer who builds the high-performance engines behind seamless digital experiences. From architecting scalable Spring Boot microservices to designing intuitive RESTful APIs, I bridge the gap between complex server-side logic and the user's journey. I don’t just write code; I ensure that every database query and system integration translates into a digital product that feels fast, reliable, and effortless for the end user.
-  </p>
+- 💬 Ask me about **Python basics, problem solving**
 
-  <p>
-    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
-    <a href="mailto:tarun.gadadasu@gmail.com"><img src="https://img.shields.io/badge/📧_tarun.gadadasu@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
-  </p>
+- 📫 How to reach me **arvind592006@gmail.com**
 
-<h3>🌐 Socials</h3>
-  
+- ⚡ Fun fact **i enjoy problem solving and continuously improving my skills**
 
-
-  <a href="https://github.com/tarun-gk">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://instagram.com/tarun_0_0_6.10">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/gadadasu-kali-tarun">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  
-
-
-  <img src="https://komarev.com/ghpvc/?username=tarun-gk&style=flat-square&color=blue" alt="Profile Visit"/>
-</div>
-
-<br clear="all" />
-
-
-## 🛠️ Skills
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,java,c,javascript" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,spring,nextjs,tailwind" />
-</td>
-
-
-
-</tr>
-<tr>
-<td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
-<br/><br/>
-
-</td>
-
-<td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,andriodstudio" />
-</td>
-</tr>
-</table>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dubbakula arvind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dubbakula arvind" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@arvind592006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arvind592006" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arvind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arvind" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind428&show_icons=true&locale=en&layout=compact" alt="arvind428" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind428&show_icons=true&locale=en" alt="arvind428" /></p>
 
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=tarun-gk&theme=dark&hide_border=true" alt="Streak" />
-</div>
-
----
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind428&" alt="arvind428" /></p>
