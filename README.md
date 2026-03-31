@@ -31,6 +31,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arvind428&show_icons=true&locale=en&layout=compact" alt="arvind428" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arvind428&show_icons=true&locale=en" alt="arvind428" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arvind428&" alt="arvind428" /></p>
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=tarun-gk&theme=dark&hide_border=true" alt="Streak" />
+</div>
+>
