@@ -35,20 +35,12 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=Arvind428&theme=dark&hide_border=true" alt="Streak" />
 </div>
->
-## 🐍 Contribution Activity Game
+## 🐍 Contribution Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/Arvind428/Arvind428/output/github-contribution-grid-snake-dark.svg">
   <img
     src="https://raw.githubusercontent.com/Arvind428/Arvind428/output/github-contribution-grid-snake.svg"
-    alt="Contribution Activity Game">
+    alt="Contribution Snake Animation">
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
